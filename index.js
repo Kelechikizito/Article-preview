@@ -1,8 +1,9 @@
 
 const shareIcon = $('.share-icon');
+const modal = $('.card-popup');
 
 shareIcon.click(function (e) { 
-    
-    console.log('I got clicked');
+     
+    modal.css('display', 'flex');
     
 });
