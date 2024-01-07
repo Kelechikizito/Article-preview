@@ -135,7 +135,7 @@ h2 {
     }
 
     .card-popup {
-        display: block;
+        display: none;
         width: 97.5%;
         margin-bottom: 0;
         bottom: 0;

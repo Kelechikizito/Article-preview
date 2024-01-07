@@ -6,4 +6,6 @@ shareIcon.click(function (e) {
      
     modal.css('display', 'flex');
     
+
+    
 });
